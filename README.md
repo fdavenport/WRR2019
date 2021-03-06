@@ -4,7 +4,7 @@ Supporting code for [_Davenport, Herrera-Estrada, Burke and Diffenbaugh (2020)_ 
 
 #### To cite: 
 
-Davenport, F. V.,  Herrera‐Estrada, J. E.,  Burke, M., &  Diffenbaugh, N. S. (2020).  Flood size increases non‐linearly across the western United States in response to lower snow‐precipitation ratios. Water Resources Research,  55. https://doi.org/10.1029/2019WR025571
+Davenport, F. V.,  Herrera‐Estrada, J. E.,  Burke, M., &  Diffenbaugh, N. S. (2020).  Flood size increases non‐linearly across the western United States in response to lower snow‐precipitation ratios. *Water Resources Research*,  56, e2019WR025571. https://doi.org/10.1029/2019WR025571
 
 If you find meaningful errors in the code or have questions, please contact Frances Davenport at fvdav@stanford.edu.
 
