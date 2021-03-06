@@ -1,0 +1,11 @@
+*.r~
+*.R~
+sbatch/
+.gitignore~
+DEM_USGS
+FORA0125*
+VIC0125*
+SNSR
+GAGES-II_data
+daily_streamflow_data
+elev_30mDEM
