@@ -23,6 +23,6 @@ Data used for the analysis comes from publicly available datasets. Most input da
 * **NLDAS-2 Forcing Data**: [monthly](https://disc.gsfc.nasa.gov/datasets/NLDAS_FORA0125_M_002/summary?keywords=NLDAS) and [hourly](https://doi.org/10.5067/6J5LHHOHZHN4) (monthly data is used to calculate climatological statistics)
 * **NLDAS-2 VIC Output**: [monthly](https://disc.gsfc.nasa.gov/datasets/NLDAS_VIC0125_M_002/summary?keywords=NLDAS) and [hourly](https://doi.org/10.5067/6J5LHHOHZHN4) (monthly data is used to calculate climatological statistics)
 
-Supporting Information Figures 2 & 3 require additional data: 
+Supporting Information Figures S2 & S3 require additional data: 
 * **30m DEM from the National Elevation Dataset**: [https://catalog.data.gov/dataset/usgs-national-elevation-dataset-ned](https://catalog.data.gov/dataset/usgs-national-elevation-dataset-ned)
 * **Sierra Nevada Snow Reanalysis**: [https://margulis-group.github.io/data/](https://margulis-group.github.io/data/)
